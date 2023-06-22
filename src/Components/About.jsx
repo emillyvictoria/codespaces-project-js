@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a software engineering student with a passion for data analysis. I specialize in working with big data using Microsoft tools like Power BI, Power Automate, and SQL Server. I find the field of data analysis fascinating and thoroughly enjoy exploring insights and patterns hidden within complex datasets.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Power Automate",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Power Automate",
+  "SQL Server",
+  "Python",
+  "Design thinking",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am truly passionate about the field of data analysis. The ability to extract meaningful insights from vast amounts of data fascinates me. It's like solving a puzzle, where each data point contributes to a bigger picture. I love the challenge of exploring data, identifying patterns, and uncovering valuable information that can drive informed decision-making. The potential to make a positive impact through data analysis motivates me every day, and I am thrilled to continue exploring and advancing in this dynamic field.";
 
 const About = () => {
   return (
